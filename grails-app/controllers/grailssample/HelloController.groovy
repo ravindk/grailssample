@@ -3,6 +3,6 @@ package grailssample
 class HelloController {
 
     def index() {
-       render "Hello Grails"
+       render "Hello GtHub"
  }
 }
