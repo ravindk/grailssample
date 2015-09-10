@@ -1,0 +1,2 @@
+# grailssample
+Sample Grails Application
